@@ -56,7 +56,11 @@ and forge new realms on my YouTube channel "[JustinNappi.dev][youtube]"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
-###
+#
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+
+#
+
+<img src="https://raw.githubusercontent.com/JSakuraa/JSakuraa/output/snake.svg" alt="Snake animation" />
